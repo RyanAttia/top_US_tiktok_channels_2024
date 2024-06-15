@@ -349,7 +349,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/powerbi_dashboard.png)
+![Power BI Dashboard](assets/images/powerbi_dashboard.png)
 
 This shows the Top US TikTok Channels in 2024 so far. 
 
